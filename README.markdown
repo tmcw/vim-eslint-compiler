@@ -1,5 +1,9 @@
 ## Vim ESLint Compiler
 
+_Differences in fork_
+
+* Always uses local eslint install in node_modules, never global.
+
 ### Installation
 
 Install [ESLint](http://eslint.org/) (0.5.1 or later)
